@@ -28,4 +28,4 @@ async def on_ready():
 async def Member_Guild_join(message):
     await message.channel.send('Member has joined')
 
-client.run('NzgzMzgwMDk2MTYxMTUzMDI0.X8Z5kQ.n0VeiY6PZGeUiHC3FBDLmH_hQF0')
+client.run('NzgzMzgwMDk2MTYxMTUzMDI0.X8Z5kQ.ntCMZ1gUqbb_RUa-G_XKlrW1pmU')
